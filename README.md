@@ -1,2 +1,2 @@
 # novo-projeto
-testes
+tests
